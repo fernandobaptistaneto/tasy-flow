@@ -10,9 +10,9 @@ Extensão para Chrome. O primeiro módulo é a paleta de perfis no Tasy: pesquis
   <img src="assets/tasy-flow.png" alt="Paleta Alt+P do Ataho" width="440" />
 </p>
 
-> **Alpha 1.5.24** · Projeto independente. Não é um produto oficial da Bionexo ou do Tasy.
+> **Alpha 1.5.25** · Projeto independente. Não é um produto oficial da Bionexo ou do Tasy.
 
-[![Downloads](https://img.shields.io/github/downloads/fernandobaptistaneto/tasy-flow/total?label=downloads)](https://github.com/fernandobaptistaneto/tasy-flow/releases)
+[![Downloads](https://img.shields.io/github/downloads/fernandobaptistaneto/ataho/total?label=downloads)](https://github.com/fernandobaptistaneto/ataho/releases)
 
 ## O que faz
 
@@ -23,10 +23,10 @@ Extensão para Chrome. O primeiro módulo é a paleta de perfis no Tasy: pesquis
 
 ## Download e instalação
 
-1. **[Baixe o Tasy-Flow.zip](https://github.com/fernandobaptistaneto/tasy-flow/releases/latest/download/Tasy-Flow.zip)** e extraia em uma pasta permanente.
+1. **[Baixe o Ataho.zip](https://github.com/fernandobaptistaneto/ataho/releases/latest/download/Ataho.zip)** e extraia em uma pasta permanente.
 2. Abra `chrome://extensions` em uma aba do Google Chrome.
 3. Ative **Modo do desenvolvedor**.
-4. Clique em **Carregar sem compactação** e selecione a pasta `tasy-flow` (a que contém o `manifest.json`).
+4. Clique em **Carregar sem compactação** e selecione a pasta `ataho` (a que contém o `manifest.json`).
 5. Clique no ícone da extensão e autorize o endereço do seu Tasy.
 6. No Tasy, pressione **Alt + P**.
 
@@ -52,7 +52,7 @@ Chrome e Tasy EMR. Telas e endpoints variam entre ambientes — teste antes de u
 
 ## Problemas e sugestões
 
-Abra uma [issue](https://github.com/fernandobaptistaneto/tasy-flow/issues) com a versão do Chrome, a versão do Tasy e o que aconteceu. **Não publique dados de pacientes, credenciais, tokens nem prints com informação sensível.**
+Abra uma [issue](https://github.com/fernandobaptistaneto/ataho/issues) com a versão do Chrome, a versão do Tasy e o que aconteceu. **Não publique dados de pacientes, credenciais, tokens nem prints com informação sensível.**
 
 ---
 
