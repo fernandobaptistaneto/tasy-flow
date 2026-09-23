@@ -12,6 +12,8 @@ Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta
 
 > **Alpha 1.5.23** · Projeto independente. Não é um produto oficial da Bionexo ou do Tasy.
 
+[![Downloads](https://img.shields.io/github/downloads/fernandobaptistaneto/tasy-flow/total?label=downloads)](https://github.com/fernandobaptistaneto/tasy-flow/releases)
+
 ## O que faz
 
 - Pesquisa os perfis da sessão pelo nome (ignora acentos e maiúsculas).
@@ -29,6 +31,8 @@ Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta
 6. No Tasy, pressione **Alt + P**.
 
 > Se o atalho não funcionar, ajuste em `chrome://extensions/shortcuts`.
+
+![Guia de instalação do Tasy Flow](assets/guia-instalacao.jpg)
 
 ## Como usar
 
