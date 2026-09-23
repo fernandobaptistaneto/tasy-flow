@@ -1,16 +1,16 @@
-# Tasy Flow
+# Ataho
 
-**Encontre e troque de perfil no Tasy sem perder o caminho da função em que estava.**
+**Atalhos inteligentes para sistemas web.**
 
-Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta e, se quiser, reabra a função — somente se o novo perfil tiver acesso.
+Extensão para Chrome. O primeiro módulo é a paleta de perfis no Tasy: pesquise pelo nome, troque na sessão já aberta e, se quiser, reabra a função — somente se o novo perfil tiver acesso.
 
-![Demonstração do Tasy Flow](assets/tasy-flow-demo.gif)
+![Demonstração do Ataho](assets/tasy-flow-demo.gif)
 
 <p align="center">
-  <img src="assets/tasy-flow.png" alt="Paleta Alt+P do Tasy Flow" width="440" />
+  <img src="assets/tasy-flow.png" alt="Paleta Alt+P do Ataho" width="440" />
 </p>
 
-> **Alpha 1.5.23** · Projeto independente. Não é um produto oficial da Bionexo ou do Tasy.
+> **Alpha 1.5.24** · Projeto independente. Não é um produto oficial da Bionexo ou do Tasy.
 
 [![Downloads](https://img.shields.io/github/downloads/fernandobaptistaneto/tasy-flow/total?label=downloads)](https://github.com/fernandobaptistaneto/tasy-flow/releases)
 
@@ -24,7 +24,7 @@ Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta
 ## Download e instalação
 
 1. **[Baixe o Tasy-Flow.zip](https://github.com/fernandobaptistaneto/tasy-flow/releases/latest/download/Tasy-Flow.zip)** e extraia em uma pasta permanente.
-2. Abra `chrome://extensions` em uma aba do google chrome.
+2. Abra `chrome://extensions` em uma aba do Google Chrome.
 3. Ative **Modo do desenvolvedor**.
 4. Clique em **Carregar sem compactação** e selecione a pasta `tasy-flow` (a que contém o `manifest.json`).
 5. Clique no ícone da extensão e autorize o endereço do seu Tasy.
@@ -32,7 +32,7 @@ Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta
 
 > Se o atalho não funcionar, ajuste em `chrome://extensions/shortcuts`.
 
-![Guia de instalação do Tasy Flow](assets/guia-instalacao.jpg)
+![Guia de instalação do Ataho](assets/guia-instalacao.jpg)
 
 ## Como usar
 
