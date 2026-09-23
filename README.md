@@ -36,8 +36,6 @@ Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta
 2. Digite parte do nome do perfil.
 3. `Enter` para trocar. Se houver função aberta, escolha se deseja reabri-la.
 
-[▶ Vídeo completo](assets/Tasy_Flow_demo_protegido.mp4)
-
 ## Privacidade
 
 Tudo roda no navegador, na sessão que você já tem no Tasy. Não há servidor próprio, telemetria, nem coleta de senha, cookie ou token. As permissões de perfil e função continuam sendo as do Tasy.
