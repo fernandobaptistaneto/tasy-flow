@@ -24,7 +24,7 @@ Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta
 ## Download e instalação
 
 1. **[Baixe o Tasy-Flow.zip](https://github.com/fernandobaptistaneto/tasy-flow/releases/latest/download/Tasy-Flow.zip)** e extraia em uma pasta permanente.
-2. Abra `chrome://extensions`.
+2. Abra `chrome://extensions` em uma aba do google chrome.
 3. Ative **Modo do desenvolvedor**.
 4. Clique em **Carregar sem compactação** e selecione a pasta `tasy-flow` (a que contém o `manifest.json`).
 5. Clique no ícone da extensão e autorize o endereço do seu Tasy.
