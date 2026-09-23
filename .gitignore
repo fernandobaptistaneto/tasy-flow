@@ -1,0 +1,8 @@
+tasy-flow/
+TasyFlow/
+*.pem
+*.crx
+*.zip
+domains.json
+Thumbs.db
+.DS_Store
