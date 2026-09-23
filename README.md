@@ -10,7 +10,7 @@ Extensão para Chrome. Pesquise o perfil pelo nome, troque na sessão já aberta
   <img src="assets/tasy-flow.png" alt="Paleta Alt+P do Tasy Flow" width="440" />
 </p>
 
-> **Alpha 1.5.14** · Projeto independente. Não é um produto oficial da Philips ou do Tasy.
+> **Alpha 1.5.14** · Projeto independente. Não é um produto oficial da Bionexo ou do Tasy.
 
 ## O que faz
 
